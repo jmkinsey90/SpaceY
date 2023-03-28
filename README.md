@@ -9,6 +9,11 @@ This section of the project consisted of collecting and wrangling data from a fe
 - Falcon 9 and Falcon Heavy Launch Records from Wikipedia (spacex_web_scraped.csv)
 
 ## Data Wrangling
-In this section we examined data collected from the SpaceX api, performed some initial exploratory data analysis, and began to clean up values to make them more model friendly for future sections of this project. Notebooks and files associated with this phase ofthe project include the following:
+In this section we examined data collected from the SpaceX api, performed some initial exploratory data analysis, and began to clean up values to make them more model friendly for future sections of this project. Notebooks and files associated with this phase of the project include the following:
 - Data Wrangling Lab (labs-jupyter-spacex-Data wrangling.ipynb)
 - Wrangled and Cleand SpaceX Launch, Flight, and Landing Dataset (dataset_part_2.csv)
+
+##Exploratory Data Analysis Using SQL
+In this section we performed exploratory data analysis on the SpaceX dataset using SQL. Notebooks and files associated with this phase of the project include the following:
+- Exploratory Data Analysis with SQL Lab (jupyter-labs-eda-sql-coursera_sqllite.ipynb)
+- SpaceX Dataset for SQL Analysis (Spacex.csv)
