@@ -13,7 +13,7 @@ In this section we examined data collected from the SpaceX api, performed some i
 - Data Wrangling Lab (labs-jupyter-spacex-Data wrangling.ipynb)
 - Wrangled and Cleand SpaceX Launch, Flight, and Landing Dataset (dataset_part_2.csv)
 
-##Exploratory Data Analysis Using SQL
+## Exploratory Data Analysis Using SQL
 In this section we performed exploratory data analysis on the SpaceX dataset using SQL. Notebooks and files associated with this phase of the project include the following:
 - Exploratory Data Analysis with SQL Lab (jupyter-labs-eda-sql-coursera_sqllite.ipynb)
 - SpaceX Dataset for SQL Analysis (Spacex.csv)
