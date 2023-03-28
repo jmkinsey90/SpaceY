@@ -17,3 +17,10 @@ In this section we examined data collected from the SpaceX api, performed some i
 In this section we performed exploratory data analysis on the SpaceX dataset using SQL. Notebooks and files associated with this phase of the project include the following:
 - Exploratory Data Analysis with SQL Lab (jupyter-labs-eda-sql-coursera_sqllite.ipynb)
 - SpaceX Dataset for SQL Analysis (Spacex.csv)
+- Exploratory Data Analysis with Visualization Lab (jupyter-labs-eda-dataviz.ipynb)
+- SpaceX Dataset After Data Viz Lab (dataset_part_3.csv)
+
+## Interactive Visual Analytics and Dashboard
+In this section we used Folium to create interactive visuals with data from the landing sites, and built an interactive dashboard using plotly dash. Notebooks and files associated with this phase of the project include the following:
+- Interactive Visual Analytics with Folium Lab
+- Interactive Dashboard with Plotly Dash Lab
