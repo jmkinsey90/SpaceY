@@ -23,4 +23,4 @@ In this section we performed exploratory data analysis on the SpaceX dataset usi
 ## Interactive Visual Analytics and Dashboard
 In this section we used Folium to create interactive visuals with data from the landing sites, and built an interactive dashboard using plotly dash. Notebooks and files associated with this phase of the project include the following:
 - Interactive Visual Analytics with Folium Lab (lab_jupyter_launch_site_location.ipynb)
-- Interactive Dashboard with Plotly Dash Lab
+- Interactive Dashboard with Plotly Dash Lab (spacex_dash_app.py)
