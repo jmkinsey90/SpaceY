@@ -24,3 +24,7 @@ In this section we performed exploratory data analysis on the SpaceX dataset usi
 In this section we used Folium to create interactive visuals with data from the landing sites, and built an interactive dashboard using plotly dash. Notebooks and files associated with this phase of the project include the following:
 - Interactive Visual Analytics with Folium Lab (lab_jupyter_launch_site_location.ipynb)
 - Interactive Dashboard with Plotly Dash Lab (spacex_dash_app.py)
+
+## Predictive Analysis (Classification)
+In this section we used machine learning to determine the best model to predict landing outcomes. Logistic Regression, SVM, Decision Tree, and K Nearest Neighbor models were tested for performance.
+– SpaceX Falcon 9 First Stage Landing Prediction (SpaceX_Machine Learning Prediction_Part_5.ipynb)
