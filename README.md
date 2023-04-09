@@ -26,5 +26,5 @@ In this section we used Folium to create interactive visuals with data from the 
 - Interactive Dashboard with Plotly Dash Lab (spacex_dash_app.py)
 
 ## Predictive Analysis (Classification)
-In this section we used machine learning to determine the best model to predict landing outcomes. Logistic Regression, SVM, Decision Tree, and K Nearest Neighbor models were tested for performance.
-– SpaceX Falcon 9 First Stage Landing Prediction (SpaceX_Machine Learning Prediction_Part_5.ipynb)
+In this section we used machine learning to determine the best model to predict landing outcomes. Logistic Regression, SVM, Decision Tree, and K Nearest Neighbor models were tested for performance:
+- SpaceX Falcon 9 First Stage Landing Prediction (SpaceX_Machine Learning Prediction_Part_5.ipynb)
